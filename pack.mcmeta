@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "No More Axolotl Despawns - Prevents Axolotls from despawning! - By Abhinav | InventoStarz",
+    "supported_formats": [
+      18,
+      26,
+      41,
+      48,
+      57,
+      61
+    ]
+  }
+}
